@@ -1,0 +1,13 @@
+body {
+    font-family: 'Verdana', sans-serif; /* change font family */
+    font-size: 18px; /* change font size */
+    color: #444; /* dark gray color */
+    background-color: #f0f0f0; /* light gray background color */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 28px; /* change font size */
+    color: #ff6600; /* orange color */
+}
